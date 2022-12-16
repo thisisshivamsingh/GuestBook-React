@@ -1,0 +1,26 @@
+{
+  "guests": [
+    {
+      "id": 1,
+      "name": "Shivam",
+      "emailId": "shivam@gmail.com",
+      "phoneNumber": 0,
+      "adults": 0,
+      "children": 0,
+      "checkIn": 0,
+      "checkOut": 0,
+      "roomCategory": 0
+    },
+    {
+      "name": "shubham",
+      "emailId": "shubham@gmail.com",
+      "phoneNumber": "12346789",
+      "adults": "0",
+      "children": "0",
+      "checkIn": "2022-12-20",
+      "checkOut": "2022-12-22",
+      "roomCategory": "5",
+      "id": 2
+    }
+  ]
+}
